@@ -21,7 +21,6 @@ I’m Nickson Kipkemoi Kiptoo, an Electrical and Telecommunications Engineering 
 
 - **Email**: nicksonkiptoo15@gmail.com  
 - **Phone**: +254 708645556  
-- **GitHub Pages Site**: [https://nicksonkiptoo.github.io/Portfolio](https://nicksonkiptoo.github.io/Portfolio)
 
 ## License
 
